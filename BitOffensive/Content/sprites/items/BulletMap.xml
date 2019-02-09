@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+    <Item>
+      <Key>1</Key>
+      <Value>0 0 16 8</Value>
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Value>0 0 16 8</Value>
+    </Item>
+  </Asset>
+</XnaContent>

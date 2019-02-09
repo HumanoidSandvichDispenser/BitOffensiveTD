@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="System.Collections.Generic.Dictionary[System.Int16, Microsoft.Xna.Framework.Vector2]">
+    <Item>
+      <Key>0</Key>
+      <Value>1 2</Value>
+    </Item>
+    <Item>
+      <Key>1</Key>
+      <Value>1 11</Value>
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Value>6 11</Value>
+    </Item>
+    <Item>
+      <Key>3</Key>
+      <Value>6 1</Value>
+    </Item>
+    <Item>
+      <Key>4</Key>
+      <Value>21 1</Value>
+    </Item>
+    <Item>
+      <Key>5</Key>
+      <Value>21 5</Value>
+    </Item>
+    <Item>
+      <Key>6</Key>
+      <Value>10 5</Value>
+    </Item>
+    <Item>
+      <Key>7</Key>
+      <Value>10 14</Value>
+    </Item>
+    <Item>
+      <Key>8</Key>
+      <Value>2 14</Value>
+    </Item>
+    <Item>
+      <Key>9</Key>
+      <Value>2 21</Value>
+    </Item>
+    <Item>
+      <Key>10</Key>
+      <Value>14 21</Value>
+    </Item>
+    <Item>
+      <Key>11</Key>
+      <Value>14 8</Value>
+    </Item>
+    <Item>
+      <Key>12</Key>
+      <Value>21 8</Value>
+    </Item>
+    <Item>
+      <Key>13</Key>
+      <Value>21 24</Value>
+    </Item>
+  </Asset>
+</XnaContent>

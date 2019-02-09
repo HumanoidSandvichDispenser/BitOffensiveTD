@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+    <Item>
+      <Key>1</Key>
+      <Value>0 0 256 256</Value>
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Value>256 0 256 256</Value>
+    </Item>
+    <Item>
+      <Key>3</Key>
+      <Value>0 256 256 256</Value>
+    </Item>
+    <Item>
+      <Key>4</Key>
+      <Value>256 256 256 256</Value>
+    </Item>
+    <Item>
+      <Key>5</Key>
+      <Value>0 512 256 256</Value>
+    </Item>
+  </Asset>
+</XnaContent>
